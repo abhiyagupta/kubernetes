@@ -192,3 +192,9 @@ Ensure `mambaout.onnx` is present in the project directory.
 ## Conclusion
 
 This guide helps you deploy a scalable FastAPI application on Kubernetes. Validate the deployment by testing endpoints and verifying resource usage. Use the provided YAML files and Docker configuration to streamline the process.
+
+
+## collab
+@abhiya🩺
+@mhema 🧘‍♀️
+@muthu 🤾‍♂️
