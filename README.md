@@ -27,7 +27,8 @@ minikube version
 
 ### Install Docker
 
-Follow steps 1 to 3 from the official Docker installation guide for Ubuntu:  ![Docker Installation Guide](https://docs.docker.com/engine/install/ubuntu/) 
+Follow steps 1 to 3 from the official Docker installation guide for Ubuntu: [Docker Installation Guide] 
+- https://docs.docker.com/engine/install/ubuntu/ 
 
 ### Start Minikube
 
